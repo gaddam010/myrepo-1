@@ -1,0 +1,11 @@
+com/cg/entity/Student.class
+com/cg/entity/Employee.class
+com/cg/App.class
+com/cg/TestCriteriaQuery.class
+help.class
+com/cg/entity/Address.class
+com/cg/util/JPAUtil.class
+com/cg/TestJPQLSelect.class
+com/cg/TestQueryParameter.class
+com/cg/util/CRUDOperations.class
+com/cg/TestJPQLNamedQuery.class
