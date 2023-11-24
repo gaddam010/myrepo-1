@@ -1,4 +1,8 @@
+
+
+
 # myrepo
+https://docs.docker.com/engine/install/linux-postinstall/
 
 ## Install kubectl 
 -  curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl"
@@ -11,3 +15,4 @@
 -  minikube start --driver=docker
 -  minikube status
 -  Verify :  kubectl get pods 
+
